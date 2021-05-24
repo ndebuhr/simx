@@ -7,6 +7,9 @@ authors = ["Neal DeBuhr <ndebuhr@gmail.com>"]
 description = "SimX provides Sim package extensions, for research and experimentation"
 homepage = "https://github.com/ndebuhr/simx"
 repository = "https://github.com/ndebuhr/simx"
+readme = "README.md"
+keywords = ["simulation", "experimentation", "research", "extension", "modeling"]
+categories = ["simulation"]
 exclude = ["scripts/"]
 
 [package.metadata.wasm-pack.profile.release]
